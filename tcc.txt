@@ -1,0 +1,44 @@
+2.2.1 nesJS nao consta nas referencias
+
+revisar os requisitos funcionais e melhorar os descritivos e numera-los
+descrições de caso de uso 2.2 Exibe a mensagem “Dados obrigatórios insuficientes” isso é um dado obrigatorio
+
+UC002 revisar inteiro
+UC004 revisar cenario alternativo
+UC005 tbm revisar cenario alternativo 
+UC007a são duas ações diferentes
+Contratar é realizar um contrato Agendar é necessário verificar a agenda para ver a disponibilidade
+
+Diagrama de casos de uso 4.4 O DIAGRAMA TEM 10 CASOS DE USO E NOS DESCRITIVOS TEM 9
+VERIFICAR O QUE ESTÁ FALTANDO
+
+4.6 O relacionamento entre usuário e agente é 1..1
+Igual para o contratante
+As chaves primárias nas tabelas agente e contratante será realmente VARCHAR?
+Criar campo tipo de usuário na tabela usuário
+Criar tabela categoria
+Verificar dados referentes à localização (endereço...), mesma coisa em relação a local em oportunidade
+
+4.8 O Script dos selects devem ser incluído no trabalho
+
+4.10 prints das telas precisa ser feito
+
+5. MANUAL DO USUÁRIO
+Crie o Manual do usuário, lembrando que este pode ser um capítulo ou então uma encadernação a parte.
+
+6. CONCLUSÃO
+Faça o texto de conclusão.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
